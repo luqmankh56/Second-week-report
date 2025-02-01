@@ -1,0 +1,18 @@
+body{
+    background-color: whitesmoke;
+}
+img{
+    border-radius: 50px;
+}
+
+table,th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    size: 20px;
+  }
+
+th{
+    background-color: green; 
+    color: white; 
+}
